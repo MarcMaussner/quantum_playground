@@ -6,3 +6,5 @@ Playground and storage of quantum examples
 - dwave - planned to contain some dwave examples
 - 2023_nature:
   * quantum_h2d - demos for obtaining information about h2o (p.e. dipole moments,...)
+- 2023_world_of_quantum - files created during qiskit hackathon at "World of Quantum"
+  * submission - jupyter notebook submitted and team list
